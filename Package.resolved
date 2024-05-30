@@ -1,13 +1,13 @@
 {
-  "originHash" : "1e04a34e801902dd0b90bb9baaa116ad78665b23626ff1348b012b293f3eceb1",
+  "originHash" : "ee7c003009be90cc7b01bf6545d88f8809d973b11d0e141b93f19060205b211f",
   "pins" : [
     {
       "identity" : "sdwebimage",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/SDWebImage/SDWebImage.git",
+      "location" : "https://github.com/dreampiggy/SDWebImage.git",
       "state" : {
-        "revision" : "5642d1ffe3dbe628592443bd14154e31929727b4",
-        "version" : "5.19.2"
+        "branch" : "bugfix/sd_svg_macos",
+        "revision" : "095fc63f8a74a5e5fde06de3511c169a0d583e91"
       }
     },
     {

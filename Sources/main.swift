@@ -1,5 +1,6 @@
 import Foundation
 import SDWebImageSVGCoder
+import SDWebImage
 
 let svgURL = Bundle.module.url(forResource: "flag", withExtension: "svg")!
 let svgData = try! Data(contentsOf: svgURL)
